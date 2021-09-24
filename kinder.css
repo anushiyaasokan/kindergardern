@@ -1,0 +1,381 @@
+#navigate{
+    background-color: #ed078b;
+    height: 39.31px;
+    width: 100%;
+}
+#navigate2{
+width: 100%;
+height: 80px;
+background-color: white;
+position: -webkit-sticky;
+position: sticky;
+top: 0px;
+z-index: 4;
+}
+#navbarText{
+    padding: 0px;
+    margin: 0px 25px 0px 25px;   
+
+}
+.fa-map-marker-alt:before,.fa-phone-alt:before
+{
+    margin-right: 10px;
+    color: white;
+}
+.lia  a{
+    color: white !important;
+}
+.lia  a,.lia1 a{
+    color: white !important;
+    font-size: 15px;
+    font-family: 'DM Sans', sans-serif;
+}
+#navi{
+    float: right;
+}
+.navbutton{
+    background-color: #12d9df;
+    color: white;
+
+}
+.lia1 a{
+    color: #423f8d !important;
+    font-weight: 600;
+    margin-right: 10px;
+}
+.lia1 button{
+    border-radius: 30px;
+    border: none;
+    width:160px;
+    height: 49px;
+    font-weight: 600;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 15px;
+    margin-top: -4px;
+}
+.background1{
+    background-image:url("xh1_hero.png.pagespeed.ic.48v3Ai9xpb.png") ;
+    height: 750px;
+}
+.background2{
+    text-align: center;
+    padding: 0px 100px 0px 100px;
+    height: 750px;
+}
+.background3{
+    background-image:url("section_bg1.png") ;
+    text-align: center;
+    padding: 100px 148px;
+    height: 950px;
+}
+.background4{
+    background-image:url("section_bg2.png") ;
+    height: 650px;
+}
+.background5{
+    background-image:url("section_bg1.png") ;
+    height: 686px;
+}
+.background1,.background3,.background4,.background0,.background5{
+    width:100%;
+    
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.background2 h1 span{
+    font-family: "Fredoka One",cursive;
+    font-size: 40px;
+    font-weight: 400;
+    color: #ed078b
+}
+.background2 h1,.background3 h1{
+    color: #423f8d;
+    font-family: "Fredoka One",cursive;
+    font-size: 40px;
+    font-weight: 400;
+}
+.background2 p,.background3 p{
+    color: #423f8d;
+    font-size: 18px;
+}
+
+    
+
+
+.iconsexp{
+    text-align: left;
+    
+}
+.iconsexp img{
+    padding-bottom: 3rem;
+}
+.backimg1{
+    width: 670;
+    height: 530px;
+    margin-bottom: 40px;
+
+}
+.activa{
+    padding-left: 19px;
+}
+.headingc{
+    font-family: "DM Sans",sans-serif;
+    font-size: 25px;
+    line-height: 1.2;
+    margin-bottom: 8px;
+    font-weight: 400;
+    padding: 0px 15px;
+    font-size: 16px;
+    line-height: 1.8;
+    color: #423f8d;
+}
+.color1{
+    color:#1f97d4 ;
+}
+.color2{
+    color: #fbce0f;
+}
+.color3{
+    color:#12d9df;
+}
+.color1,.color2,.color3{
+font-family: "Concert One",cursive;
+font-size: 1.8rem;
+line-height: 1.2;
+margin-bottom: 8px;
+font-weight: 900;
+}
+.backdiv1{
+    left: 450px;
+    padding: 70px 85px;
+}
+.backdiv{
+    left: 100px;
+    padding: 85px;
+}
+.backdiv,.backdiv1{
+    background-color: white;
+    position: relative;
+    top: 100px;
+    width: 500px;
+    height: 470px;
+    align-content: center;
+    border-radius: 95px;
+    text-align: center;
+}
+
+.backdiv h1{
+    font-family: "Fredoka One",cursive;
+    color: #423F8D;
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 1.1;
+}
+.backdiv h2{
+    font-family: "Fredoka One",cursive;
+    color: #FBCE0F;
+    font-size: 44px;
+    line-height: 1.2;
+    font-weight: 400;
+}
+.backdiv button,.backdiv1 button{
+    background: #ED078B;
+    font-family: "Concert One",cursive;
+    color: #fff;
+    border-radius: 30px;
+    border: none;
+    width:160px;
+    height: 49px;
+    font-weight: 600;
+    font-size: 15px;
+    margin-top: 14px;
+}
+.background3 button{
+    background-color: transparent;
+    border: 1px solid#ED078B;
+    color:  #ED078B;
+    width:220px;
+    height: 49px;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: "Concert One",cursive;
+    border-radius: 30px;
+}
+
+
+.backdiv1 span{
+    color:#ED078B;
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-family: "Fredoka One",cursive;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    line-height: 1.3;
+}
+.backdiv1 h1,.backdiv1 h6{
+    color: #423f8d;
+}
+.backdiv1 h1{
+    font-family: "Fredoka One",cursive;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 1.2;
+    margin-bottom: 15px;
+}
+.backdiv1 h6{
+    font-family: "DM Sans",sans-serif;
+    font-size: 18px;
+    font-weight: normal
+}
+.backdiv2{
+    text-align: center;
+    padding: 50px 300px 0px 300px;
+}
+.backdiv2 h1{
+    font-family: "Fredoka One",cursive;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 1.2;
+    margin-bottom: 15px;
+    color: #423f8d;
+}
+.backdiv2 p{
+    font-family: "DM Sans",sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    color: #423f8d;
+}
+.background0{
+    width:100%;
+    height: 730px;
+}
+.footerhead{
+    font-size: 22px;
+    margin-bottom: 29px;
+    font-weight: 600;
+    font-family: "Fredoka One",cursive;
+}
+.footerbox p a{
+   
+    font-weight: 400;
+    font-size: 16px;
+}
+.footbrand{
+    padding-right: 52px;
+    font-size: 16px;
+    margin-bottom: 50px;
+    line-height: 1.8;
+}
+.footerhead,.footbrand,.footerbox p a,.footer-copyright{
+    color: #fff;
+}
+.cards-wrapper {
+    display: flex;
+    justify-content: center;
+  }
+  .card img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .card {
+    margin: 0 0.5em;
+    box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+    border: none;
+    border-radius: 0;
+  }
+  .carousel-inner {
+    padding: 1em;
+  }
+  .carousel-control-prev,
+  .carousel-control-next {
+    background-color: #e1e1e1;
+    width: 5vh;
+    height: 5vh;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  @media (min-width: 768px) {
+    .card img {
+      height: 11em;
+    }
+  }
+  .prevbtn,.nextbtn{
+      width: 50px !important;
+      height: 50px !important;
+      top: 235px !important;
+  }
+  .prevbtn{
+    left: 0px !important;
+  }
+  .nextbtn{
+    right: 0px !important;
+  }
+  .picgal{
+      width: 1046px;
+      height: 250px;
+  }
+  .img-fluid{
+    height: 12em;
+}
+/**************************************hovering*************************************************************/
+.fa-facebook:hover,.fa-instagram:hover,.fa-linkedin-in:hover,.fa-twitter:hover{
+    transform: rotateY(180deg);
+    transition: 1s;
+  }
+
+  .swiper {
+    width: 100%;
+    height: 80%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+.swiper-slide-active{
+margin-right:0px;
+}
+.social{
+    padding-left: 20px;
+    margin-bottom: 10px;
+    list-style: none
+}
+.footso{
+    background: rgba(128,136,255,.1);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    line-height: 24px;
+    margin-right: 33px;
+    margin-left: -14px
+
+}
+.classescard{
+    width: 100%;
+    height: 100%;
+}
+/* ***************************************************************************************************************** */
+
+
